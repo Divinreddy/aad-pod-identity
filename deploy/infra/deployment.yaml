@@ -124,7 +124,7 @@ metadata:
   name: mic
   namespace: default
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       component: mic
